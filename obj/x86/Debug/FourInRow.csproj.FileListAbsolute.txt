@@ -1,0 +1,32 @@
+E:\FourInRow\FourInRow\bin\Debug\FourInRow.exe
+E:\FourInRow\FourInRow\bin\Debug\FourInRow.pdb
+E:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.Properties.Resources.resources
+E:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.startMenu.resources
+E:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.csproj.GenerateResource.Cache
+E:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.exe
+E:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.pdb
+D:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.exe
+D:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.pdb
+D:\FourInRow\FourInRow\bin\Debug\FourInRow.exe
+D:\FourInRow\FourInRow\bin\Debug\FourInRow.pdb
+D:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.Properties.Resources.resources
+D:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.startMenu.resources
+D:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.csproj.GenerateResource.Cache
+E:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.csprojResolveAssemblyReference.cache
+E:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.Instructions.resources
+D:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.csprojResolveAssemblyReference.cache
+D:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.GameScreenForm.resources
+D:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.Instructions.resources
+E:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.GameScreenForm.resources
+F:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.exe
+F:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.pdb
+F:\FourInRow\FourInRow\bin\Debug\FourInRow.exe
+F:\FourInRow\FourInRow\bin\Debug\FourInRow.pdb
+F:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.csprojResolveAssemblyReference.cache
+F:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.GameScreenForm.resources
+F:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.Instructions.resources
+F:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.Properties.Resources.resources
+F:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.startMenu.resources
+F:\FourInRow\FourInRow\obj\x86\Debug\FourInRow.csproj.GenerateResource.Cache
+G:\ארבע בשורה עם אפשרות לחמש שש שבע\FourInRow\obj\x86\Debug\FourInRow.exe
+G:\ארבע בשורה עם אפשרות לחמש שש שבע\FourInRow\obj\x86\Debug\FourInRow.pdb
